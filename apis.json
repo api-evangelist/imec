@@ -1,0 +1,49 @@
+{
+    "name": "imec",
+    "description": "Imec is the world-leading R&D and innovation hub in nanoelectronics and digital technologies.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28277-www-imec-int-com.jpg",
+    "tags": [
+        "agencies",
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/imec\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "imec",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28277-www-imec-int-com.jpg",
+            "humanURL": "https:\/\/www.imec-int.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/imec-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/imec-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/imec"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/imec_int"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.imec-int.com"
+        }
+    ]
+}
